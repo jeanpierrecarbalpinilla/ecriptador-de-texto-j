@@ -1,0 +1,1 @@
+# ecriptador-de-texto-j
